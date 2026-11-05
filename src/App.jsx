@@ -42,8 +42,7 @@ function App() {
         <div className="auth-form-side">
           <div className="auth-form-container">
             <div className="auth-logo">
-              <span>🇱🇸</span>
-
+<img src={lesothoEmblem} alt="Lesotho Government Emblem" />
               <div>
                 <strong>Government e-Services</strong>
                 <small>Kingdom of Lesotho</small>
