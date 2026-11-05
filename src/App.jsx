@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import './App.css'
+import lesothoEmblem from './assets/lesotho-emblem.png.png'
 
 function App() {
   const [authPage, setAuthPage] = useState(null)
